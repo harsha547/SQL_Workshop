@@ -99,6 +99,8 @@ insert into movies
 values('9', 'American Beauty', '2015', 'English', '201');
 insert into movies
 values('10', 'Walls', '2000', 'English', '207');
+insert into movies
+values('11', 'Vertigo', '2011', 'English', '202');
 
 insert into movie_cast
 values('101', '1', 'James');

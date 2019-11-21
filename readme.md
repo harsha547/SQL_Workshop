@@ -37,9 +37,7 @@ Following are some of tools or resources that you might need in learning SQL.
 
 ## SQL Formatter
 
-- `We read more code then we write in our life time`. Always format sql code for better readbility
-
-  [Formatter](http://www.dpriver.com/pp/sqlformat.htm)
+- `We read more code then we write in our life time`. Always [format](http://www.dpriver.com/pp/sqlformat.htm) sql code for better readbility
 
 ## Regarding Notes
 
