@@ -6,18 +6,7 @@
 
 **Solution :-**
 
-<style>
-table {
-    width:100%;
-}
-th{
-    width:600px;
-}
-.foo table .code{
-    height:200px;
-    width:100px;
-}
-</style>
+
 <div class="foo">
 <table>
   <tr>
@@ -40,18 +29,7 @@ th{
 
 **Solution :-**
 
-<style>
-table {
-    width:100%;
-}
-th{
-    width:600px;
-}
-.foo table .code{
-    height:200px;
-    width:100px;
-}
-</style>
+
 <div class="foo">
 <table>
   <tr>
@@ -60,6 +38,11 @@ th{
   </tr>
   <tr class="code">
     <td>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
     </td>
     <td>
     </td>
@@ -73,18 +56,7 @@ th{
 
 **Solution :-**
 
-<style>
-table {
-    width:100%;
-}
-th{
-    width:600px;
-}
-.foo table .code{
-    height:200px;
-    width:100px;
-}
-</style>
+
 <div class="foo">
 <table>
   <tr>
@@ -93,6 +65,11 @@ th{
   </tr>
   <tr class="code">
     <td>
+          <br>
+    <br>
+    <br>
+    <br>
+    <br>
     </td>
     <td>
     </td>
@@ -106,18 +83,7 @@ th{
 
 **Solution :-**
 
-<style>
-table {
-    width:100%;
-}
-th{
-    width:600px;
-}
-.foo table .code{
-    height:200px;
-    width:100px;
-}
-</style>
+
 <div class="foo">
 <table>
   <tr>
@@ -126,6 +92,11 @@ th{
   </tr>
   <tr class="code">
     <td>
+          <br>
+    <br>
+    <br>
+    <br>
+    <br>
     </td>
     <td>
     </td>
@@ -144,18 +115,7 @@ th{
 
 **Solution :-**
 
-<style>
-table {
-    width:100%;
-}
-th{
-    width:600px;
-}
-.foo table .code{
-    height:200px;
-    width:100px;
-}
-</style>
+
 <div class="foo">
 <table>
   <tr>
@@ -164,6 +124,11 @@ th{
   </tr>
   <tr class="code">
     <td>
+          <br>
+    <br>
+    <br>
+    <br>
+    <br>
     </td>
     <td>
     </td>
@@ -177,18 +142,7 @@ th{
 
 **Solution :-**
 
-<style>
-table {
-    width:100%;
-}
-th{
-    width:600px;
-}
-.foo table .code{
-    height:200px;
-    width:100px;
-}
-</style>
+
 <div class="foo">
 <table>
   <tr>
@@ -197,6 +151,11 @@ th{
   </tr>
   <tr class="code">
     <td>
+        <br>
+    <br>
+    <br>
+    <br>
+    <br>
     </td>
     <td>
     </td>
@@ -210,18 +169,7 @@ th{
 
 **Solution :-**
 
-<style>
-table {
-    width:100%;
-}
-th{
-    width:600px;
-}
-.foo table .code{
-    height:200px;
-    width:100px;
-}
-</style>
+
 <div class="foo">
 <table>
   <tr>
@@ -230,6 +178,11 @@ th{
   </tr>
   <tr class="code">
     <td>
+        <br>
+    <br>
+    <br>
+    <br>
+    <br>
     </td>
     <td>
     </td>
@@ -243,18 +196,7 @@ th{
 
 **Solution :-**
 
-<style>
-table {
-    width:100%;
-}
-th{
-    width:600px;
-}
-.foo table .code{
-    height:200px;
-    width:100px;
-}
-</style>
+
 <div class="foo">
 <table>
   <tr>
@@ -263,6 +205,11 @@ th{
   </tr>
   <tr class="code">
     <td>
+        <br>
+    <br>
+    <br>
+    <br>
+    <br>
     </td>
     <td>
     </td>
@@ -276,18 +223,7 @@ th{
 
 **Solution :-**
 
-<style>
-table {
-    width:100%;
-}
-th{
-    width:600px;
-}
-.foo table .code{
-    height:200px;
-    width:100px;
-}
-</style>
+
 <div class="foo">
 <table>
   <tr>
@@ -296,6 +232,11 @@ th{
   </tr>
   <tr class="code">
     <td>
+        <br>
+    <br>
+    <br>
+    <br>
+    <br>
     </td>
     <td>
     </td>
@@ -309,18 +250,7 @@ th{
 
 **Solution :-**
 
-<style>
-table {
-    width:100%;
-}
-th{
-    width:600px;
-}
-.foo table .code{
-    height:200px;
-    width:100px;
-}
-</style>
+
 <div class="foo">
 <table>
   <tr>
@@ -329,6 +259,11 @@ th{
   </tr>
   <tr class="code">
     <td>
+        <br>
+    <br>
+    <br>
+    <br>
+    <br>
     </td>
     <td>
     </td>
@@ -342,18 +277,7 @@ th{
 
 **Solution :-**
 
-<style>
-table {
-    width:100%;
-}
-th{
-    width:600px;
-}
-.foo table .code{
-    height:200px;
-    width:100px;
-}
-</style>
+
 <div class="foo">
 <table>
   <tr>
@@ -362,6 +286,11 @@ th{
   </tr>
   <tr class="code">
     <td>
+        <br>
+    <br>
+    <br>
+    <br>
+    <br>
     </td>
     <td>
     </td>
@@ -369,20 +298,9 @@ th{
 </table>
 </div>
 
-## Extra Functions
+## 11. Extra Functions
 
-<style>
-table {
-    width:100%;
-}
-th{
-    width:600px;
-}
-.foo table .code{
-    height:200px;
-    width:100px;
-}
-</style>
+
 <div class="foo">
 <table>
   <tr>
@@ -435,3 +353,110 @@ th{
 </table>
 </div>
 
+## 12. INNER JOIN
+
+**Query**:  List the movies directed by `Alfred`
+
+**Solution :-**
+
+
+<div class="foo">
+<table>
+  <tr>
+    <th>Movie Database</th>
+    <th>How will you use it in datalake</th>
+  </tr>
+  <tr class="code">
+    <td>
+        <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
+</div>
+
+## 13. LEFT JOIN & RIGHT JOIN
+
+**Query** : List all the movies with respective movie rating. If the rating is not availiable keep it blank.
+
+**Solution :-**
+
+
+<div class="foo">
+<table>
+  <tr>
+    <th>Movie Database</th>
+    <th>How will you use it in datalake</th>
+  </tr>
+  <tr class="code">
+    <td>
+        <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
+</div>
+
+## 14. GROUP BY
+
+**Query** : How many movies each of the director directed.
+
+**Solution :-**
+
+
+<div class="foo">
+<table>
+  <tr>
+    <th>Movie Database</th>
+    <th>How will you use it in datalake</th>
+  </tr>
+  <tr class="code">
+    <td>
+        <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
+</div>
+
+## 15. HAVING
+
+**Query** : Filter the directors only those who directed atleast 2 movies.
+
+**Solution :-**
+
+
+<div class="foo">
+<table>
+  <tr>
+    <th>Movie Database</th>
+    <th>How will you use it in datalake</th>
+  </tr>
+  <tr class="code">
+    <td>
+        <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
+</div>
